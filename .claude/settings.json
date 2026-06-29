@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dating-coach-knowledge": {
+      "command": "python",
+      "args": ["-X", "utf8", "-m", "dating_coach_mcp"]
+    }
+  }
+}
