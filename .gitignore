@@ -1,0 +1,5 @@
+# 用户个人数据——从模板填充后不提交
+/profile.md
+/playbook.md
+/contacts/*.md
+!/contacts/README.md
